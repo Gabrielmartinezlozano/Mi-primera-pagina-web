@@ -1,7 +1,7 @@
 p { color:black }
 h1{text-align: center;}
 a{text-align: left;}
-h3{color:darkgreen; text-decoration: underline;}
+h3{color:rgb(17, 0, 255); text-decoration: underline;}
 a:link { color:rgb(113, 68, 236); text-decoration: none }
 a:visited { color: red;}
 a:hover { color: rgb(1, 2, 116); font-weight: bold }
