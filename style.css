@@ -9,4 +9,11 @@ h4{color:rgb(75, 75, 75)}
 p{font-family:"Times New Roman",serif}
 h1{font-family:Arial,"sans-serif"}
 h2{font-size: 200%;}
+.clase1 {
+    color: lightgreen;
+}
+
+.clase3 {
+    color: black;
+}
 /*Aquí finaliza el archivo de estilos css*/
